@@ -1,81 +1,98 @@
-<div id="top" align="center">
-  # 👋 Hello! I'm Nimra Khan
-  
-  <p>Dedicated student of Business Information Systems (BIS) | Eager to blend business acumen with practical technical skills, specializing in Data and FinTech.</p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/nimra-muhammad-05752128b/">
-      <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:nadeemnimra752@gmail.com">
-      <img alt="Email Nimra Khan" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-</div>
+<h1 align="center">Hi, I'm Nimra Nadeem 👋</h1>
+<h3 align="center">Software & Smart Systems Engineer</h3>
+
+<p align="center">
+  <img src="YOUR_PROFILE_PICTURE_LINK" alt="Nimra's Photo" width="150" style="border-radius: 50%;">
+</p>
+
+<p align="center">
+  📍 United Arab Emirates | 🌐 Passionate About Smart City Technology & Modern Software Engineering  
+</p>
 
 ---
 
-## 📚 Education & Professional Focus
+## 🚀 About Me
 
-I am committed to mastering the technology that drives business success, with a strong focus on applying data analysis and foundational programming knowledge.
+I am a **Software & Smart Systems Engineer** with a background in **Business Information Systems**, combining technical development skills with real-world problem-solving.  
 
-### 🎓 Education
-- **Degree:** Bachelors in Business Information Systems
-- **Institution:** London American City University
-- **Key Focus:** Data Modeling, Business Process Analysis, Financial Strategy.
+My work focuses on:
+- Smart city solutions  
+- API-integrated dashboards  
+- Software development  
+- Data-driven decision systems  
+- Modern full-stack applications  
 
----
-
-## 💼 Virtual Experience Internships
-
-These simulated experiences allowed me to gain practical, real-world skills in business and technology from global leaders.
-
-### Lululemon - Omnichannel Marketing (July - Aug 2023)
-* **Focus:** Analyzed customer data to recommend omnichannel marketing strategies for optimizing the consumer journey.
-* **Skills:** Market Analysis, Customer Segmentation, Digital Strategy.
-
-### HSBC - Global Banking & Markets (July 2023)
-* **Focus:** Developed a pitch proposal and strategy for a foreign exchange derivative solution to meet client risk management needs.
-* **Skills:** Financial Modeling, Risk Analysis, Global Markets Strategy.
-
-### Google - Digital Marketing Intern (June 2023)
-* **Focus:** Created marketing assets and analyzed campaign performance metrics to improve the reach of a digital advertising campaign.
-* **Skills:** Digital Marketing, SEO/SEM, Data Analysis.
+I love building technology that helps people, enhances safety, and connects physical systems with digital intelligence.
 
 ---
 
-## 🏅 Certifications & Technical Achievements
+## 🧠 Skills & Strengths
 
-This section validates my commitment to professional development and acquired technical skills, with verified links/credentials.
-
-* **Canva Certified Creative:** [View Credential] (https://www.canva.com/design-school/certification-award/9e8b3091-dd42-4d3f-a158-a8549c52eff0)
-* **Building with Artificial Intelligence (CS205):** Credential ID: `2998172838NN`
-* **AI Literacy:** IBM (via Credly). [View Badge] (https://www.credly.com/badges/8e881893-4949-4975-a413-911c7fa0dc0d/linked_in_profile)
-* **Foundational C#:** Microsoft (via freeCodeCamp). [View Certificate] (https://www.freecodecamp.org/certification/fcc-5eb3631b-4bc9-4e5d-bbd5-806aac3b65a3/foundational-c-sharp-with-microsoft)
-* **Google Digital Marketing Intern:** Credential ID: `VB8 N9P KQA`
-* **Lululemon & HSBC Virtual Internships:** Verification links can be added here once located.
+- **Analytical & Critical Thinking**  
+- **Problem-Solving & Troubleshooting**  
+- **Fast Learning & Adaptability**  
+- **Technical Communication**  
+- **Attention to Detail**
 
 ---
 
-## 📊 Visuals: GitHub Activity & Focus (Dracula Theme)
+## 💻 Tech Stack
 
-<div align="center">
-  [![Nimra Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimrakhann-BIS&show_icons=true&theme=dracula&hide_rank=true)]()
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimrakhann-BIS&layout=compact&theme=dracula&hide_rank=true)]()
-</div>
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,sql" />
+</p>
 
-<!--
-**Nimrakhann-BIS/Nimrakhann-BIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Frameworks & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind,git,postman" />
+</p>
 
-Here are some ideas to get you started:
+### **Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🏆 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google-Certified-blue?logo=google&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Meta-Certified-blue?logo=meta&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-Certified-blue?logo=cisco&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-Certified-blue?logo=ibm&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft-Certified-blue?logo=microsoft&style=for-the-badge" />
+</p>
+
+---
+
+## 📂 Featured Project: Heat Safety Smart System (UAE)
+
+**A full smart-city inspired system built with:**  
+✅ Node.js • Express • MongoDB  
+✅ OpenWeather API  
+✅ 3D Visualization (Three.js)  
+✅ Realtime Risk Detection  
+✅ Dashboard UI with Tailwind  
+✅ Automatic Logging System  
+
+This project monitors **heat risk in UAE**, predicts danger levels, and updates data in real time using a clean, modern dashboard.
+
+🔗 *Repository coming soon*  
+🔗 *Live demo (after deployment)*  
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&style=for-the-badge" /></a>
+</p>
+
+---
+
+<h3 align="center">Thank you for visiting my GitHub! 🚀</h3>
+
 -->
